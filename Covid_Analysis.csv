@@ -1,0 +1,201 @@
+Age,Gender,Urban,Vaccinated,Breathing Issue,Fever,Comorbid,Smoker,BMI,Covid
+34,Male,Urban,No,Yes,No,No,Yes,33,Covid
+33,Male,Urban,Yes,No,Yes,Yes,No,28,Not Covid
+65,Male,Rural,No,Yes,Yes,Yes,No,20,Covid
+94,Female,Rural,Yes,No,Yes,Yes,Yes,30,Not Covid
+87,Male,Rural,Yes,No,Yes,No,Yes,30,Not Covid
+36,Male,Rural,Yes,Yes,Yes,Yes,No,31,Covid
+29,Male,Urban,No,Yes,Yes,Yes,No,34,Covid
+76,Female,Urban,Yes,Yes,No,Yes,No,31,Not Covid
+74,Male,Rural,Yes,Yes,Yes,Yes,No,40,Not Covid
+50,Male,Urban,Yes,Yes,Yes,No,No,34,Covid
+93,Female,Rural,Yes,No,No,No,Yes,16,Not Covid
+40,Female,Rural,Yes,Yes,No,No,No,27,Not Covid
+53,Male,Rural,No,Yes,Yes,Yes,No,40,Covid
+81,Female,Urban,No,No,No,No,Yes,27,Not Covid
+71,Female,Rural,No,Yes,No,Yes,No,39,Covid
+35,Male,Rural,No,No,No,No,Yes,22,Not Covid
+81,Female,Urban,Yes,Yes,Yes,Yes,No,31,Covid
+89,Male,Urban,No,No,Yes,No,Yes,30,Not Covid
+57,Female,Rural,Yes,No,Yes,Yes,No,26,Covid
+19,Female,Rural,No,No,Yes,Yes,No,35,Not Covid
+74,Male,Rural,No,Yes,No,Yes,No,20,Covid
+53,Female,Urban,Yes,No,Yes,Yes,Yes,34,Not Covid
+65,Male,Rural,Yes,Yes,Yes,Yes,No,33,Covid
+45,Female,Urban,No,No,Yes,No,Yes,28,Not Covid
+90,Male,Urban,Yes,No,Yes,No,No,29,Not Covid
+77,Male,Rural,No,Yes,Yes,No,Yes,29,Covid
+37,Female,Rural,Yes,Yes,Yes,Yes,Yes,21,Covid
+20,Male,Rural,No,No,No,No,Yes,35,Not Covid
+94,Male,Urban,Yes,No,Yes,Yes,No,26,Not Covid
+69,Female,Rural,No,No,Yes,Yes,No,18,Covid
+57,Male,Urban,No,Yes,No,No,Yes,26,Not Covid
+78,Female,Rural,No,No,Yes,No,No,28,Covid
+41,Female,Rural,No,No,Yes,No,No,24,Not Covid
+81,Male,Urban,Yes,Yes,Yes,Yes,No,36,Covid
+59,Male,Rural,No,Yes,Yes,Yes,No,16,Covid
+80,Male,Urban,Yes,No,Yes,Yes,No,20,Not Covid
+55,Female,Urban,No,Yes,No,No,No,21,Not Covid
+69,Female,Rural,No,Yes,Yes,No,No,37,Covid
+35,Male,Rural,Yes,No,No,No,No,35,Not Covid
+57,Male,Urban,No,No,Yes,No,No,24,Not Covid
+20,Female,Urban,Yes,No,Yes,Yes,No,39,Covid
+46,Male,Rural,No,Yes,Yes,Yes,No,33,Covid
+32,Male,Rural,Yes,Yes,Yes,No,Yes,23,Covid
+36,Female,Urban,Yes,Yes,Yes,No,Yes,32,Not Covid
+36,Male,Urban,Yes,No,Yes,Yes,Yes,20,Covid
+93,Female,Urban,No,Yes,Yes,No,Yes,24,Covid
+92,Female,Rural,Yes,No,Yes,No,No,26,Not Covid
+35,Female,Urban,No,Yes,No,Yes,No,24,Covid
+40,Male,Rural,Yes,Yes,No,No,No,40,Not Covid
+43,Male,Rural,No,No,No,Yes,Yes,30,Not Covid
+22,Female,Urban,Yes,Yes,Yes,No,No,23,Covid
+19,Female,Rural,No,No,No,Yes,No,22,Not Covid
+37,Male,Urban,Yes,No,No,Yes,No,36,Not Covid
+84,Female,Urban,Yes,Yes,No,No,No,22,Covid
+59,Male,Rural,Yes,No,Yes,No,No,26,Covid
+36,Male,Rural,Yes,No,No,No,No,19,Not Covid
+42,Female,Rural,No,Yes,No,No,No,37,Covid
+45,Male,Urban,Yes,No,No,No,No,22,Not Covid
+91,Female,Urban,Yes,No,No,Yes,No,39,Not Covid
+51,Female,Urban,No,Yes,Yes,No,Yes,35,Covid
+74,Male,Urban,No,Yes,Yes,Yes,No,39,Covid
+76,Female,Urban,Yes,No,Yes,No,Yes,32,Not Covid
+18,Male,Urban,No,No,Yes,Yes,No,38,Not Covid
+21,Male,Rural,No,Yes,Yes,No,No,30,Not Covid
+92,Female,Urban,Yes,Yes,Yes,No,No,29,Covid
+72,Female,Rural,Yes,Yes,Yes,Yes,Yes,17,Not Covid
+24,Female,Urban,No,No,Yes,No,No,19,Covid
+67,Female,Rural,Yes,Yes,Yes,No,No,37,Not Covid
+20,Male,Urban,Yes,Yes,No,No,No,30,Covid
+92,Male,Urban,Yes,Yes,Yes,Yes,Yes,34,Covid
+31,Female,Rural,Yes,Yes,Yes,No,Yes,33,Not Covid
+94,Male,Rural,No,No,Yes,Yes,No,36,Not Covid
+46,Male,Rural,No,Yes,Yes,No,No,25,Covid
+56,Male,Rural,No,No,Yes,Yes,Yes,17,Covid
+78,Female,Rural,No,No,No,No,No,34,Not Covid
+37,Male,Rural,No,No,Yes,Yes,Yes,33,Covid
+86,Male,Urban,Yes,No,Yes,No,No,30,Not Covid
+49,Female,Urban,Yes,No,Yes,Yes,Yes,27,Not Covid
+91,Male,Rural,Yes,No,No,No,No,31,Covid
+33,Female,Urban,Yes,No,No,Yes,Yes,29,Not Covid
+72,Female,Rural,Yes,No,No,No,Yes,25,Not Covid
+86,Male,Urban,Yes,Yes,Yes,Yes,No,26,Not Covid
+62,Female,Urban,Yes,No,No,Yes,No,23,Covid
+32,Male,Urban,Yes,No,No,Yes,Yes,17,Not Covid
+32,Female,Urban,No,Yes,No,No,No,29,Not Covid
+31,Female,Urban,No,Yes,Yes,No,No,30,Covid
+66,Female,Rural,Yes,Yes,Yes,No,Yes,31,Not Covid
+46,Female,Rural,No,No,No,No,Yes,29,Not Covid
+32,Male,Rural,No,No,No,Yes,No,33,Not Covid
+75,Male,Rural,Yes,No,Yes,No,Yes,30,Covid
+84,Male,Urban,No,No,Yes,No,Yes,27,Covid
+58,Female,Rural,Yes,No,Yes,No,Yes,30,Not Covid
+50,Male,Urban,Yes,Yes,Yes,Yes,Yes,25,Covid
+40,Female,Urban,No,Yes,No,Yes,No,18,Covid
+35,Male,Rural,Yes,Yes,No,Yes,Yes,32,Not Covid
+44,Male,Urban,No,No,No,Yes,No,31,Not Covid
+31,Male,Urban,No,Yes,No,No,No,26,Not Covid
+82,Male,Urban,Yes,No,Yes,Yes,No,28,Covid
+50,Female,Rural,Yes,No,No,No,No,22,Not Covid
+21,Male,Urban,Yes,Yes,No,No,Yes,26,Covid
+85,Female,Urban,No,No,No,No,No,21,Covid
+38,Male,Rural,No,Yes,Yes,Yes,No,25,Not Covid
+52,Female,Rural,No,No,No,No,No,20,Covid
+86,Male,Urban,No,Yes,No,No,No,16,Covid
+88,Male,Urban,Yes,No,No,No,No,31,Not Covid
+63,Female,Rural,Yes,Yes,No,No,Yes,24,Covid
+45,Male,Urban,Yes,No,Yes,No,No,20,Covid
+61,Male,Urban,No,Yes,Yes,No,Yes,40,Not Covid
+47,Male,Rural,Yes,No,Yes,Yes,No,33,Not Covid
+51,Male,Urban,No,No,Yes,Yes,No,40,Not Covid
+95,Female,Rural,Yes,Yes,No,No,Yes,34,Not Covid
+48,Female,Rural,No,Yes,Yes,Yes,Yes,39,Covid
+55,Male,Urban,Yes,Yes,Yes,Yes,Yes,32,Not Covid
+54,Male,Rural,Yes,Yes,No,Yes,Yes,30,Not Covid
+87,Female,Rural,Yes,Yes,Yes,Yes,Yes,37,Covid
+86,Male,Urban,No,Yes,Yes,No,Yes,31,Covid
+85,Male,Rural,No,No,Yes,Yes,Yes,18,Not Covid
+18,Female,Rural,Yes,Yes,Yes,Yes,Yes,37,Covid
+36,Female,Rural,No,Yes,Yes,Yes,No,32,Covid
+44,Female,Rural,No,Yes,Yes,No,No,30,Not Covid
+62,Male,Rural,No,Yes,No,No,Yes,21,Covid
+82,Female,Urban,No,Yes,No,No,No,30,Not Covid
+43,Male,Rural,No,Yes,No,No,No,40,Covid
+40,Female,Urban,No,Yes,Yes,Yes,Yes,20,Covid
+72,Female,Urban,No,Yes,No,Yes,No,35,Not Covid
+78,Female,Rural,No,Yes,Yes,No,Yes,37,Covid
+58,Male,Rural,Yes,No,Yes,No,No,37,Covid
+55,Male,Rural,Yes,No,Yes,No,Yes,19,Not Covid
+30,Male,Urban,No,Yes,Yes,Yes,Yes,26,Not Covid
+36,Male,Urban,Yes,No,No,Yes,Yes,38,Not Covid
+37,Male,Urban,Yes,Yes,Yes,No,No,31,Covid
+64,Female,Urban,No,Yes,Yes,Yes,No,37,Covid
+55,Female,Urban,Yes,No,No,No,Yes,17,Not Covid
+59,Female,Urban,Yes,No,No,Yes,No,24,Not Covid
+18,Male,Urban,Yes,Yes,No,No,No,21,Covid
+61,Male,Urban,Yes,No,Yes,No,No,20,Covid
+51,Male,Urban,No,Yes,Yes,No,No,39,Not Covid
+47,Male,Rural,Yes,No,Yes,No,Yes,37,Not Covid
+53,Female,Urban,Yes,Yes,No,Yes,Yes,25,Covid
+53,Male,Rural,Yes,No,Yes,No,Yes,32,Not Covid
+22,Male,Urban,Yes,Yes,Yes,No,No,31,Covid
+71,Female,Urban,No,No,Yes,No,No,34,Not Covid
+74,Female,Rural,No,Yes,Yes,No,Yes,40,Covid
+33,Female,Urban,No,Yes,No,Yes,No,31,Covid
+34,Female,Rural,No,No,No,Yes,No,20,Not Covid
+43,Female,Urban,No,Yes,No,Yes,Yes,16,Covid
+52,Male,Urban,Yes,No,No,Yes,No,22,Not Covid
+57,Male,Urban,Yes,No,Yes,Yes,Yes,37,Not Covid
+31,Male,Rural,Yes,No,Yes,Yes,No,28,Not Covid
+46,Female,Urban,No,No,No,No,No,24,Not Covid
+57,Female,Urban,No,Yes,Yes,No,No,36,Covid
+23,Female,Urban,No,Yes,Yes,Yes,No,36,Covid
+20,Female,Urban,Yes,Yes,Yes,Yes,Yes,34,Not Covid
+54,Male,Urban,No,Yes,Yes,No,No,34,Covid
+76,Male,Rural,Yes,No,Yes,Yes,No,31,Not Covid
+93,Female,Urban,No,No,No,Yes,No,19,Not Covid
+24,Female,Rural,No,Yes,No,Yes,No,22,Covid
+88,Male,Rural,Yes,Yes,No,Yes,Yes,25,Covid
+26,Male,Rural,No,No,Yes,Yes,No,18,Covid
+91,Female,Urban,Yes,No,Yes,Yes,Yes,21,Not Covid
+66,Male,Rural,Yes,No,Yes,Yes,Yes,21,Not Covid
+53,Female,Rural,No,Yes,Yes,No,Yes,24,Covid
+54,Female,Urban,Yes,Yes,No,Yes,No,28,Not Covid
+70,Female,Urban,No,Yes,Yes,Yes,No,39,Covid
+91,Male,Urban,No,Yes,Yes,No,No,20,Covid
+48,Female,Rural,Yes,Yes,No,No,No,30,Not Covid
+23,Female,Urban,Yes,Yes,No,Yes,No,26,Covid
+81,Male,Urban,No,Yes,No,Yes,Yes,21,Covid
+58,Female,Urban,No,No,No,Yes,No,25,Not Covid
+35,Female,Urban,Yes,No,No,Yes,Yes,20,Not Covid
+84,Male,Urban,Yes,Yes,No,No,Yes,25,Covid
+75,Male,Rural,No,No,Yes,Yes,No,24,Covid
+85,Female,Urban,No,Yes,Yes,Yes,No,28,Not Covid
+23,Female,Rural,No,No,No,Yes,No,35,Not Covid
+69,Male,Urban,Yes,No,No,No,No,29,Not Covid
+25,Male,Urban,Yes,No,Yes,Yes,Yes,28,Covid
+23,Male,Urban,No,No,Yes,Yes,Yes,29,Not Covid
+46,Male,Rural,Yes,Yes,No,No,No,38,Covid
+90,Female,Rural,No,No,No,No,Yes,33,Not Covid
+95,Female,Urban,Yes,Yes,No,Yes,No,40,Not Covid
+48,Male,Urban,No,No,No,No,No,18,Not Covid
+88,Female,Urban,No,No,Yes,No,Yes,24,Covid
+63,Male,Rural,Yes,Yes,No,No,No,34,Not Covid
+32,Male,Urban,No,Yes,No,Yes,Yes,33,Not Covid
+63,Male,Rural,No,Yes,Yes,No,No,39,Covid
+74,Male,Rural,Yes,Yes,No,No,No,28,Not Covid
+59,Female,Urban,No,Yes,Yes,Yes,No,28,Covid
+72,Female,Rural,No,Yes,Yes,Yes,Yes,20,Covid
+48,Male,Urban,Yes,No,No,No,No,34,Not Covid
+35,Male,Rural,No,Yes,No,Yes,No,26,Covid
+91,Female,Urban,No,No,No,Yes,Yes,28,Not Covid
+28,Male,Rural,Yes,Yes,Yes,Yes,Yes,39,Covid
+57,Male,Urban,No,No,No,No,Yes,25,Not Covid
+87,Male,Rural,No,Yes,Yes,No,No,26,Covid
+77,Male,Rural,No,No,No,No,No,22,Not Covid
+50,Male,Urban,Yes,Yes,No,No,No,16,Covid
+35,Female,Rural,Yes,No,No,No,No,34,Not Covid
+51,Male,Rural,Yes,Yes,Yes,No,Yes,22,Not Covid
+50,Female,Urban,Yes,No,No,Yes,No,33,Not Covid
+67,Male,Urban,No,Yes,Yes,Yes,No,26,Covid
